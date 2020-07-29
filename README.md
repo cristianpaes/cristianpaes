@@ -5,6 +5,6 @@
 
 Gostaria de me encontrar?
 
-https://img.shields.io/keybase/zec/cristian?color=black&label=Portfolio&logo=teste&style=flat-square
+![Keybase ZEC](https://img.shields.io/keybase/zec/cristian?color=black&label=Portfolio&logo=teste&style=flat-square)
 [![Portfolio Badge](https://img.shields.io/badge/Cristian-black)](https://cristiancamargo.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-camargo/)](https://www.linkedin.com/in/cristian-camargo/)
