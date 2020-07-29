@@ -5,6 +5,7 @@
 
 Gostaria de me encontrar?
 
-[![Keybase ZEC](https://img.shields.io/keybase/zec/cristian?color=black&label=Portfolio&logo=teste&style=flat-square)](https://cristiancamargo.netlify.app/)
+[![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)](https://cristiancamargo.netlify.app/)
 
+[![Keybase ZEC](https://img.shields.io/keybase/zec/cristian?color=black&label=Portfolio&logo=teste&style=flat-square)]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-camargo/)](https://www.linkedin.com/in/cristian-camargo/)
