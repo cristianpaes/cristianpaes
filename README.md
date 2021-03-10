@@ -4,7 +4,7 @@
   Meu objetivo é atuar na área de Desenvolvimento me dedicando em Desenvolver em Web e em especializações referentes a área, com foco na linguagem Python e no Framework Django, querendo contribuir e somar com soluções que gere lucros e benefícios as empresas.
 
 
-[![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpaes)](https://github.com/cristianpaes/github-readme-stats)
+![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=radical)
 
 
 Gostaria de me encontrar?
@@ -12,3 +12,6 @@ Gostaria de me encontrar?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-camargo/)](https://www.linkedin.com/in/cristian-camargo/)
 
 [![Badge](https://img.shields.io/badge/Portfolio-Cristian-%23715?style=for-the-badge&logo=ghost)](https://cristiancamargo.netlify.app/)
+
+
+
