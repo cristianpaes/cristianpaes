@@ -4,7 +4,7 @@
 
 ##### - Sou um profissional de T.I com mais de 18 anos de experiência, atuando na área de suporte à sistemas, usuários e principalmente gerenciando servidores (Antivirus, Firewall, Active directory, E-mail, Banco de Dados), redes cabeadas e wi-fi e banco de dados (Mysql e Sql server).
 
-##### - Formado em Informática com ênfase em Análise de Sistemas e Pós-graduado em Segurança da Informação e
+##### - Formado em Informática com ênfase em Análise de Sistemas e Pós-graduado em Segurança da Informação
 
 ##### - Meu Objetivo é atuar na área de Desenvolvimento me dedicando em Desenvolver aplicações em Web, com foco na linguagem Python e no Framework Django e Flask.
 
