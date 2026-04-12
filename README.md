@@ -49,7 +49,7 @@ Tenho como objetivo ampliar minha atuação na área de Desenvolvimento, dedican
 
 ### :file_folder: Banco de Dados:
 
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![SqlServer](https://img.shields.io/badge/-SqlServer-003B57?&logo=SqlServer&logoColor=FFFFFF)
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 ### :wrench: Ferramentas:
 
@@ -57,11 +57,11 @@ Tenho como objetivo ampliar minha atuação na área de Desenvolvimento, dedican
 
 ### :bar_chart: Estatísticas: 
 
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko)
+![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true&rank_icon=github)
 
 ### :chart_with_upwards_trend: Linguagens mais utulizadas: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact)](https://github.com/crisitianpaes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8)](https://github.com/cristianpaes)
 
 #### :phone: Gostaria de entrar em contato? :email:
 
