@@ -36,13 +36,12 @@ Principais competências:
 
 • Suporte a ambientes críticos de produção
 
-
-
-Busco oportunidades como DBA SQL Server / Analista de Dados, onde possa aplicar minha experiência em performance, estabilidade e evolução de ambientes de dados, contribuindo com soluções eficientes e alinhadas às necessidades do negócio.
-
 ##### - Formado em Informática com ênfase em Análise de Sistemas e Pós-graduado em Segurança da Informação
 
-##### - Meu Objetivo é atuar na área de Desenvolvimento me dedicando em Desenvolver aplicações em Web, com foco na linguagem Python e no Framework Django e Flask.
+##### - Busco oportunidades como DBA SQL Server e Analista de Dados, onde possa aplicar minha experiência em performance, estabilidade e evolução de ambientes de dados, contribuindo com soluções eficientes e alinhadas às necessidades do negócio.
+
+Tenho como objetivo ampliar minha atuação na área de Desenvolvimento, dedicando-me à criação de aplicações Web com foco na linguagem Python e nos frameworks Django e Flask, integrando soluções de dados e aplicações para gerar maior valor estratégico às organizações.
+
 
 ### :bulb: Conhecimentos:
 
@@ -50,7 +49,7 @@ Busco oportunidades como DBA SQL Server / Analista de Dados, onde possa aplicar 
 
 ### :file_folder: Banco de Dados:
 
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![SqlServer](https://img.shields.io/badge/-SqlServer-003B57?&logo=SqlServer&logoColor=FFFFFF)
 
 ### :wrench: Ferramentas:
 
