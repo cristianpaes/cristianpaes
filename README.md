@@ -2,7 +2,43 @@
 
 ### :boy: SOBRE MIM: 
 
-##### - Sou um profissional de T.I com mais de 18 anos de experiência, atuando na área de suporte à sistemas, usuários e principalmente gerenciando servidores (Antivirus, Firewall, Active directory, E-mail, Banco de Dados), redes cabeadas e wi-fi e banco de dados (Mysql e Sql server).
+##### - Sou um profissional com mais de 28 anos de experiência em Tecnologia da Informação, com sólida atuação em administração de bancos de dados, sustentação de ambientes críticos e desenvolvimento de soluções integradas ao ERP Sankhya.
+
+
+
+Especialista em SQL Server, atuando em ambientes de produção com foco em análise de performance, troubleshooting, otimização de queries e garantia de alta disponibilidade. Experiência na identificação de gargalos, análise de planos de execução e melhoria contínua de rotinas críticas, sempre visando desempenho, integridade e confiabilidade dos dados.
+
+
+
+Forte atuação no desenvolvimento em Transact-SQL (Stored Procedures, Views, Functions), criação de rotinas automatizadas e integração de dados entre sistemas e módulos do ERP. Destaque para desenvolvimento e customização de soluções no Sankhya, incluindo módulos de SAC e Marketing, voltados à gestão de atendimentos, campanhas e relacionamento com clientes.
+
+
+
+Experiência em modelagem e estruturação de dados, construção de consultas analíticas, relatórios gerenciais e indicadores estratégicos, apoiando diretamente a tomada de decisão das áreas de negócio.
+
+Vivência em ambientes Windows e Linux, administração de servidores físicos e em nuvem, além de atuação em segurança da informação, com foco em políticas de backup, recuperação de dados e continuidade de serviços.
+
+
+
+Principais competências:
+
+• SQL Server (Administração, T-SQL, Performance e Troubleshooting)
+
+• Otimização de queries e análise de planos de execução
+
+• Desenvolvimento e manutenção de rotinas em banco de dados
+
+• ERP Sankhya (customização, integrações e sustentação)
+
+• Modelagem e integridade de dados
+
+• Monitoramento, backup e recovery
+
+• Suporte a ambientes críticos de produção
+
+
+
+Busco oportunidades como DBA SQL Server / Analista de Dados, onde possa aplicar minha experiência em performance, estabilidade e evolução de ambientes de dados, contribuindo com soluções eficientes e alinhadas às necessidades do negócio.
 
 ##### - Formado em Informática com ênfase em Análise de Sistemas e Pós-graduado em Segurança da Informação
 
