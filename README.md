@@ -1,69 +1,120 @@
-### :ocean: Sejam Bem Vindo :video_game:
+<h1 align="center">👋 Olá, eu sou Cristian Camargo</h1>
 
-### :boy: SOBRE MIM: 
+<h3 align="center">
+DBA SQL Server | Analista de Dados | Desenvolvedor Python
+</h3>
 
-##### - Sou um profissional com mais de 28 anos de experiência em Tecnologia da Informação, com sólida atuação em administração de bancos de dados, sustentação de ambientes críticos e desenvolvimento de soluções integradas ao ERP Sankhya.
+---
 
+## 👨‍💻 Sobre Mim
 
+Sou um profissional com **mais de 28 anos de experiência em Tecnologia da Informação**, com forte atuação em **administração de bancos de dados SQL Server**, sustentação de ambientes críticos e desenvolvimento de soluções integradas ao **ERP Sankhya**.
 
-Especialista em SQL Server, atuando em ambientes de produção com foco em análise de performance, troubleshooting, otimização de queries e garantia de alta disponibilidade. Experiência na identificação de gargalos, análise de planos de execução e melhoria contínua de rotinas críticas, sempre visando desempenho, integridade e confiabilidade dos dados.
+Atuo em ambientes de produção com foco em:
 
+✔ Performance e otimização de queries  
+✔ Troubleshooting e análise de planos de execução  
+✔ Alta disponibilidade e integridade de dados  
+✔ Desenvolvimento em **Transact-SQL**  
+✔ Integração de dados entre sistemas  
+✔ Automação de rotinas críticas  
 
+Tenho experiência em **modelagem de dados**, construção de **consultas analíticas**, **relatórios gerenciais** e **indicadores estratégicos**, apoiando diretamente a tomada de decisão.
 
-Forte atuação no desenvolvimento em Transact-SQL (Stored Procedures, Views, Functions), criação de rotinas automatizadas e integração de dados entre sistemas e módulos do ERP. Destaque para desenvolvimento e customização de soluções no Sankhya, incluindo módulos de SAC e Marketing, voltados à gestão de atendimentos, campanhas e relacionamento com clientes.
+Também venho expandindo minha atuação para o **desenvolvimento Web com Python**, utilizando **Django** e **Flask**, integrando aplicações modernas a ambientes de dados.
 
+🎓 **Formação:**  
+Informática com ênfase em Análise de Sistemas  
+Pós-graduação em Segurança da Informação  
 
+---
 
-Experiência em modelagem e estruturação de dados, construção de consultas analíticas, relatórios gerenciais e indicadores estratégicos, apoiando diretamente a tomada de decisão das áreas de negócio.
+## 🎯 Objetivo Profissional
 
-Vivência em ambientes Windows e Linux, administração de servidores físicos e em nuvem, além de atuação em segurança da informação, com foco em políticas de backup, recuperação de dados e continuidade de serviços.
+Busco oportunidades como:
 
+- **DBA SQL Server**
+- **Analista de Dados**
+- **Desenvolvedor Backend Python**
 
+Onde eu possa aplicar minha experiência em **performance**, **estabilidade** e **evolução de ambientes de dados**, contribuindo com soluções eficientes e alinhadas às necessidades do negócio.
 
-Principais competências:
+---
 
-• SQL Server (Administração, T-SQL, Performance e Troubleshooting)
+## 🚀 Tecnologias e Conhecimentos
 
-• Otimização de queries e análise de planos de execução
+### 🧠 Linguagens e Frameworks
 
-• Desenvolvimento e manutenção de rotinas em banco de dados
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-• ERP Sankhya (customização, integrações e sustentação)
+---
 
-• Modelagem e integridade de dados
+### 🗄️ Banco de Dados
 
-• Monitoramento, backup e recovery
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-• Suporte a ambientes críticos de produção
+---
 
-##### - Formado em Informática com ênfase em Análise de Sistemas e Pós-graduado em Segurança da Informação
+### 🛠️ Ferramentas
 
-##### - Busco oportunidades como DBA SQL Server e Analista de Dados, onde possa aplicar minha experiência em performance, estabilidade e evolução de ambientes de dados, contribuindo com soluções eficientes e alinhadas às necessidades do negócio.
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-Tenho como objetivo ampliar minha atuação na área de Desenvolvimento, dedicando-me à criação de aplicações Web com foco na linguagem Python e nos frameworks Django e Flask, integrando soluções de dados e aplicações para gerar maior valor estratégico às organizações.
+---
 
+## 📊 Estatísticas do GitHub
 
-### :bulb: Conhecimentos:
+<p align="center">
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=flask&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=FFFFFF) ![Heroku](https://img.shields.io/badge/-Heroku-430098?&logo=Heroku&logoColor=FFFFFF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true&rank_icon=github"/>
 
-### :file_folder: Banco de Dados:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8&hide_border=true"/>
 
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+</p>
 
-### :wrench: Ferramentas:
+---
 
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+## 📌 Principais Competências
 
-### :bar_chart: Estatísticas: 
+✔ Administração SQL Server  
+✔ Otimização de Queries  
+✔ Troubleshooting de Performance  
+✔ Análise de Planos de Execução  
+✔ Modelagem de Dados  
+✔ Integração de Sistemas  
+✔ ERP Sankhya  
+✔ Backup e Recovery  
+✔ Monitoramento de Ambientes  
+✔ Desenvolvimento T-SQL  
+✔ Python Backend  
+✔ Automação de Processos  
 
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true&rank_icon=github)
+---
 
-### :chart_with_upwards_trend: Linguagens mais utulizadas: 
+## 📫 Contato
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8)](https://github.com/cristianpaes)
+🌐 **Portfólio:**  
+https://cristiancamargo.netlify.app/
 
-#### :phone: Gostaria de entrar em contato? :email:
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/cristian-camargo/
 
-[![Badge](https://img.shields.io/badge/Portfolio-Cristian-%23715?style=for-the-badge&logo=ghost)](https://cristiancamargo.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-camargo/)](https://www.linkedin.com/in/cristian-camargo/)[![Gmail Badge](https://img.shields.io/badge/-cristianpcpaes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianpcpaes@gmail.com)](mailto:cristianpcpaes@gmail.com)
+📧 **Email:**  
+cristianpcpaes@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
