@@ -78,10 +78,10 @@ Onde eu possa aplicar minha experiência em **performance**, **estabilidade** e 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
+  
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianpaes&theme=merko&hide_border=true"/>
 
