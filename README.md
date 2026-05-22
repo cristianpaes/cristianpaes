@@ -79,13 +79,33 @@ Onde eu possa aplicar minha experiência em **performance**, **estabilidade** e 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianpaes&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&langs_count=8&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianpaes&theme=merko&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianpaes&layout=compact&theme=merko&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=cristianpaes&theme=merko&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 API REST com Flask
+Sistema backend utilizando Flask com integração a banco SQL Server.
+
+### 🔹 Dashboard Analítico SQL Server
+Consultas analíticas e indicadores estratégicos para tomada de decisão.
+
+### 🔹 Automação com Python
+Automação de processos e rotinas administrativas utilizando Python.
+
+### 🔹 Integração ERP Sankhya
+Integrações entre sistemas utilizando procedures, jobs e APIs.
 
 ---
 
@@ -108,14 +128,35 @@ Onde eu possa aplicar minha experiência em **performance**, **estabilidade** e 
 
 ## 📫 Contato
 
-🌐 **Portfólio:**  
-https://cristiancamargo.netlify.app/
+<p align="left">
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/cristian-camargo/
+<a href="https://cristiancamargo.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-📧 **Email:**  
-cristianpcpaes@gmail.com
+<a href="https://www.linkedin.com/in/cristian-camargo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cristianpcpaes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ☕ Frase
+
+> “Tecnologia é transformar problemas complexos em soluções simples.”
 
 ---
 
